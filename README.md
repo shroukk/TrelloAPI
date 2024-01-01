@@ -24,7 +24,7 @@ Testing collection of Trello rest API using Postman tool.
 - Get a checkitem.
 - Create a comment on a card.
 - Create a reaction to a comment.
-# Delete
+### Delete
 - Delete action's reaction.
 - Delete an action.
 - Delete checkitem.
