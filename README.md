@@ -1,4 +1,4 @@
-# Testing-TrelloAPI
+# TrelloAPI
 Testing collection of Trello rest API using Postman tool.
 
 # Tested Features:
