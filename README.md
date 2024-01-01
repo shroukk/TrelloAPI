@@ -1,7 +1,7 @@
 # Testing-TrelloAPI
 Testing collection of Trello rest API using Postman tool.
 
-# Tested features:
+# Tested Features:
 ### Board
 - Create a board.
 - Get a board.
