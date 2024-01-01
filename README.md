@@ -1,16 +1,16 @@
 # Testing-TrelloAPI
 Testing collection of Trello rest API using Postman tool.
 
-# tested features:
-## Board
+# Tested features:
+### Board
 - Create a board.
 - Get a board.
 - Update a board.
-## List
+### List
 - Create a list on a board.
 - Get a list.
 - Update a list.
-## Card
+### Card
 - Create a card on a list.
 - Get a card.
 - Update a card.
