@@ -27,8 +27,8 @@ Testing collection of Trello rest API using Postman tool.
 ### Delete
 - Delete action's reaction.
 - Delete an action.
-- Delete checkitem.
-- Delete checklist.
-- Delete attachment.
-- Delete card.
-- Delete Board. 
+- Delete a checkitem.
+- Delete a checklist.
+- Delete an attachment.
+- Delete a card.
+- Delete a Board. 
