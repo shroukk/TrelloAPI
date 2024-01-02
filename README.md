@@ -31,4 +31,16 @@ Testing collection of Trello rest API using Postman tool.
 - Delete a checklist.
 - Delete an attachment.
 - Delete a card.
-- Delete a Board. 
+- Delete a Board.
+  
+## Prerequisites
+- Installing postman tool.
+- Trello account.
+- Trello authentication(generating valid key and token).
+- importing collection and environment to postman.
+  
+#### Now, your Postman collection ready to run.
+### additional steps :
+- run collection by newman tool.
+- creating newman report attached to the project.
+
