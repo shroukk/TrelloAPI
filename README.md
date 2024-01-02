@@ -37,7 +37,7 @@ Testing collection of Trello rest API using Postman tool.
 - Installing postman tool.
 - Trello account.
 - Trello authentication(generating valid key and token).
-- importing collection and environment to postman.
+- Importing collection and environment to postman.
   
 #### Now, your Postman collection ready to run.
 ### additional steps :
