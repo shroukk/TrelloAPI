@@ -1,5 +1,5 @@
 # TrelloAPI
-Testing collection of Trello rest API using Postman tool.
+This repository contains a Postman collection for testing various Trello REST API endpoints. The test scope is based on the official Trello API documentation, which you can find [here](https://developer.atlassian.com/cloud/trello/rest/api-group-boards/#api-boards-post).
 
 # Tested Features:
 ### Board
@@ -32,15 +32,23 @@ Testing collection of Trello rest API using Postman tool.
 - Delete an attachment.
 - Delete a card.
 - Delete a Board.
+
+## Test Cases
+- Check status code.
+- Check response time.
+- Check the response format as expected.
+- Validate returned values in the response body.
+- Validate the response body schema.
+- Ensure proper handling of errors.
   
 ## Prerequisites
 - Installing postman tool.
-- Trello account.
-- Trello authentication(generating valid key and token).
-- Importing collection and environment to postman.
+- A Trello account.
+- Trello authentication (generate a valid key and token).
+- Importing collection and environment into postman.
   
 #### Now, your Postman collection ready to run.
 ### additional steps :
-- run collection by newman tool.
-- creating newman report attached to the project.
+- run collection using the Newman tool.
+- creating a Newman report attached to the project.
 
