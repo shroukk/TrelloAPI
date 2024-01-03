@@ -47,7 +47,7 @@ This repository contains a Postman collection for testing various Trello REST AP
 - Trello authentication (generate a valid key and token).
 - Importing collection and environment into postman.
   
-#### Now, your Postman collection ready to run.
+#### Now, Your Postman collection is ready to run.
 ### additional steps :
 - run collection using the Newman tool.
 - creating a Newman report attached to the project.
